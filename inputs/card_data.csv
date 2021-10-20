@@ -1,0 +1,130 @@
+search,number,name,search_term,mkt_price
+JN-R,20,Jolteon,,7.1
+JN-R,21,Kangaskhan,,3.92
+JN-R,25,Pinsir,,3.79
+JN-R,31,Vileplume,,3.7
+FS-R,18,Ditto,,4.41
+FS-R,19,Dragonite,,7.37
+FS-R,20,Gengar,,5.72
+B2-H,2,Blastoise,,99.96
+B2-H,4,Charizard,,286.99
+B2-H,14,Pidgeot,,21.29
+B2-H,18,Venusaur,,85.47
+B2-H,20,Zapdos,,19.87
+B2-R,22,Dragonair,,6.3
+B2-R,27,Mr. Mime,,3.16
+B2-R,31,Venomoth,,3.31
+B2-C,51,Magmar,,1.52
+B2-C,62,Tauros,,2.99
+TR-H,3,Dark Blastoise,Blastoise,100
+TR-H,7,Dark Golbat,Golbat,17.01
+TR-H,8,Dark Gyarados,Gyarados,23.66
+TR-H,9,Dark Hypno,Hypno,15.45
+TR-R,18,Dark Alakazam,Alakazam,7.13
+TR-R,21,Dark Charizard,Charizard,37.8
+TR-R,22,Dark Dragonite,Dragonite,11.02
+TR-R,23,Dark Dugtrio,Dugtrio,3.99
+TR-R,26,Dark Hypno,Hypno,4.6
+TR-R,29,Dark Slowbro,Slowbro,4.25
+TR-R,31,Dark Weezing,Weezing,3.74
+GH-H,3,Erika's Clefable,Clefable,22.81
+GH-H,4,Erika's Dragonair,Dragonair,44.3
+GH-H,7,Lt. Surge's Fearow,Fearow,31.22
+GH-H,8,Lt. Surge's Magneton,Magneton,11.56
+GH-H,11,Rocket's Hitmonchan,Hitmonchan,29.61
+GH-H,12,Rocket's Moltres,,44.68
+GH-H,19,The Rocket's Trap,Trap,14.65
+GH-T,15,Brock,Brock 15,24.04
+GH-T,16,Erika,Erika 16,30.24
+GH-T,17,Lt. Surge,Surge 17,21.05
+GH-T,18,Misty,Misty 18,27.7
+GH-R,21,Brock's Onix,Onix,7.01
+GH-R,27,Lt. Surge's Electabuzz,Electabuzz,6.47
+GH-R,28,Lt. Surge's Raichu,Raichu,15
+GH-R,30,Misty's Goldeen,Goldeen,5.27
+GH-R,34,Sabrina's Venomoth,Venomoth,5.83
+GH-R,98,Brock,Brock 98,1.78
+GH-R,99,Charity,,4.93
+GH-R,104,The Rocket's Training Gym,Training Gym,5.23
+GC-H,4,Erika's Venusaur,Venusaur,100.4
+GC-H,5,Giovanni's Gyarados,Gyarados,56.36
+GC-H,10,Koga's Ditto,Ditto,28.34
+GC-H,12,Misty's Golduck,Golduck,29.89
+GC-H,15,Rocket's Zapdos,Zapdos,66.33
+GC-T,17,Blaine,Blaine 17,31.95
+GC-T,18,Giovanni,Giovanni 18,29.06
+GC-T,19,Koga,Koga 19,24.53
+GC-T,20,Sabrina,Sabrina 20,31.32
+GC-R,22,Brock's Dugtrio,Dugtrio,4.55
+GC-R,25,Koga's Arbok,Arbok,5.11
+GC-R,26,Koga's Muk,Muk,5.07
+GC-R,29,Sabrina's Gengar,Gengar,25.45
+GC-R,105,Giovanni's Last Resort,Last Resort,2.55
+GC-R,106,Koga,Koga 106,2.55
+GC-C,47,Koga's Kakuna,Kakuna,1.53
+GC-C,76,Giovanni's Nidoran M,Nidoran 76,0.74
+GC-C,82,Koga's Weedle,Weedle,0.84
+GC-C,112,Blaine's Quiz #3,Quiz 112,2.83
+GC-C,122,Saffron City Gym,,0.97
+GC-C,125,Transparent Walls,,1
+N1-H,2,Azumarill,,13.49
+N1-H,5,Feraligatr,Feraligatr 5,70.57
+N1-H,10,Meganium,Meganium 10,39.67
+N1-H,11,Meganium,Meganium 11,44.88
+N1-L,9,Lugia,,360.22
+N1-R,25,Sneasel,,3.84
+N1-R,86,Focus Band,,10.54
+N1-C,29,Bayleef,,1.79
+N1-C,34,Flaaffy,,1.72
+N1-C,52,Xatu,,0.91
+N1-C,63,Ledyba,,0.58
+N2-H,2,Forretress,,17.27
+N2-H,4,Houndoom,,41.84
+N2-H,5,Houndour,,49.37
+N2-H,6,Kabutops,,34.87
+N2-H,9,Poliwrath,,20.16
+N2-H,10,Scizor,,39.88
+N2-H,17,Yanma,,16.58
+N2-R,20,Espeon,,9.02
+N2-R,21,Forretress,,4.29
+N2-R,22,Hitmontop,,3.56
+N2-R,24,Houndour,,7.65
+N2-R,30,Smeargle,,4.81
+N2-R,33,Unown A,Unown,7.52
+N2-R,36,Yanma,,4.75
+N3-H,1,Ampharos,,35.3
+N3-H,2,Blissey,,28.43
+N3-H,3,Celebi,,71.33
+N3-H,4,Crobat,,34.79
+N3-H,5,Delibird,,27.86
+N3-H,8,Houndoom,,76.45
+N3-H,10,Magneton,,22.41
+N3-H,12,Porygon2,,26.07
+N3-H,13,Raikou,,84.14
+N3-H,65,Shining Gyarados,Gyarados,330
+N3-H,66,Shining Magikarp,Magikarp,225.82
+N3-R,17,Entei,,10.01
+N3-R,18,Ho-oh,,12.52
+N3-R,21,Raichu,,6.16
+N4-H,1,Dark Ampharos,Ampharos,68.86
+N4-H,2,Dark Crobat,Crobat,44.75
+N4-H,3,Dark Donphan,Donphan,41.99
+N4-H,4,Dark Espeon,Espeon,182.56
+N4-H,6,Dark Gengar,Gengar,161.75
+N4-H,8,Dark Porygon2,Porygon2,45
+N4-H,9,Dark Scizor,Scizor,90.65
+N4-H,11,Dark Tyranitar,Tyranitar,138.75
+N4-H,12,Light Arcanine,Arcanine,160.94
+N4-R,19,Dark Omastar,Omastar,6.63
+N4-R,22,Light Dragonair,Dragonair,18.16
+N4-R,28,Unown H,Unown H,7.21
+N4-R,95,Radio Tower,,4.55
+N4-R,56,Togepi,,6.47
+N4-S,106,Shining Celebi,Celebi,237.46
+N4-S,107,Shining Charizard,Charizard,1408.08
+N4-S,108,Shining Kabutops,Kabutops,164.24
+N4-S,109,Shining Mewtwo,Mewtwo,290.95
+N4-S,110,Shining Noctowl,Noctowl,216.87
+N4-S,111,Shining Raichu,Raichu,248.99
+N4-S,112,Shining Steelix,Steelix,200.25
+N4-S,113,Shining Tyranitar,,440

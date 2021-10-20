@@ -1,0 +1,71 @@
+[
+	{
+		"name": "title",
+		"html_class": "s-item__title"
+	},
+	{
+		"name": "card_name",
+		"calculated": true
+	},
+	{
+		"name": "condition",
+		"calculated": true
+	},
+	{
+		"name": "price",
+		"html_class": "s-item__price",
+		"cleaner": "to_number"
+	},
+	{
+		"name": "shipping",
+		"html_class": "s-item__shipping",
+		"cleaner": "to_number"
+	},
+	{
+		"name": "total_price",
+		"calculated": true
+	},
+	{
+		"name": "mkt_price",
+		"calculated": true
+	},
+	{
+		"name": "cond_price",
+		"calculated": true
+	},
+	{
+		"name": "value_score",
+		"calculated": true
+	},
+	{
+		"name": "cond_value",
+		"calculated": true
+	},
+	{
+		"name": "bid_count",
+		"html_class": "s-item__bidCount",
+		"cleaner": "to_number"
+	},
+	{
+		"name": "time_listed",
+		"html_class": "s-item__listingDate",
+		"cleaner": "to_datetime"
+	},
+	{
+		"name": "time_left",
+		"html_class": "s-item__time-left",
+		"cleaner": "to_countdown"
+	},
+	{
+		"name": "buy_it_now",
+		"html_class": "s-item__buyItNowOption"
+	},
+	{
+		"name": "best_offer",
+		"html_class": "s-item__purchase-options"
+	},
+	{
+		"name": "url",
+		"html_class": "s-item__link"
+	}
+]

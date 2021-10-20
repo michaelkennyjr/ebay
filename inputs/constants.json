@@ -1,0 +1,79 @@
+{
+	"base_queries": {
+		"JN-R": "jungle (rare, \"non holo\")",
+		"FS-R": "fossil (rare, \"non holo\")",
+		"B2-H": "(\"base 2\", \"base set 2\") -celebrations -102",
+		"B2-R": "(\"base 2\", \"base set 2\")",
+		"B2-C": "(\"base 2\", \"base set 2\")",
+		"TR-H": "rocket holo -non",
+		"TR-R": "rocket (rare, \"non holo\")",
+		"GH-H": "gym heroes holo -non",
+		"GH-T": "gym heroes holo -non",
+		"GH-R": "gym heroes rare",
+		"GC-H": "gym challenge holo -non",
+		"GC-T": "gym challenge holo -non",
+		"GC-R": "gym challenge rare",
+		"GC-C": "gym challenge",
+		"N1-H": "neo genesis",
+		"N1-L": "neo genesis -metal",
+		"N1-R": "neo genesis",
+		"N1-C": "neo genesis",
+		"N2-H": "neo discovery holo -non",
+		"N2-R": "neo discover (rare, \"non holo\")",
+		"N3-H": "neo revelation holo -non",
+		"N3-R": "neo revelation (rare, \"non holo\")",
+		"N4-H": "neo destiny",
+		"N4-R": "neo destiny",
+		"N4-S": "neo destiny shining -metal -sticker"
+	},
+	"conditions": {
+		"Graded": {
+			"terms": ["psa", "cgc", "bgs"],
+			"price_rate": 1.0
+		},
+		"DMG": {
+			"terms": ["damage", "damaged", "dmg", "destroyed"],
+			"price_rate": 0.4
+		},
+		"HP": {
+			"terms": ["heavy", "heavily", "hp"],
+			"price_rate": 0.5
+		},
+		"MP/HP": {
+			"terms": ["mp-hp", "mp/hp", "hp-mp", "hp/mp"],
+			"price_rate": 0.55
+		},
+		"MP": {
+			"terms": ["moderate", "mp"],
+			"price_rate": 0.6
+		},
+		"LP/MP": {
+			"terms": ["lp-mp", "lp/mp", "mp-lp", "mp/lp"],
+			"price_rate": 0.65
+		},
+		"LP": {
+			"terms": ["light play", "lightly play", "lp"],
+			"price_rate": 0.7
+		},
+		"NM/LP": {
+			"terms": ["nm-lp", "nm/lp", "lp-nm", "lp/nm"],
+			"price_rate": 0.75
+		},
+		"NM": {
+			"terms": ["near mint", "near-mint", "nearmint", "nm"],
+			"price_rate": 0.8
+		},
+		"NM/M": {
+			"terms": ["nm-m", "nm/m", "m-nm", "m/nm"],
+			"price_rate": 0.85
+		},
+		"GM": {
+			"terms": ["gem mint", "gem-mint"],
+			"price_rate": 1.0
+		},
+		"M": {
+			"terms": ["mint"],
+			"price_rate": 0.9
+		}
+	}
+}
